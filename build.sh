@@ -8,6 +8,7 @@ DIST_DIR=public/
 HUGO_BIN=bin/hugo
 HUGO_URL=https://github.com/gohugoio/hugo/releases/download/v"$HUGO_VER"/"$TAR_NAME"
 
+echo "==> Start Build"
 echo "WorkDir:  $(pwd)"
 echo "Command:  $COMMAND"
 
