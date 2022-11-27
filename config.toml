@@ -1,5 +1,5 @@
 baseURL = "http://www.example.com"
-title = "johndoe"
+title = "wb_blog"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
