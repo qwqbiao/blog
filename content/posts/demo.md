@@ -1,7 +1,7 @@
 ---
-title: "Hello World"
-date: 2022-11-27T23:41:34+08:00
-slug: 9467d107
+title: "Demo"
+date: 2022-11-28T00:04:22+08:00
+slug: a8a0b77b
 description: ""
 #cover: "cover.png"
 tags: []
