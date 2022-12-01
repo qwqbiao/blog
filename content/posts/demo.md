@@ -8,6 +8,8 @@ tags: []
 categories: []
 ---
 
-Summary
+Use：`cpp`
 
-<!--more-->
+```c
+int main();
+```
