@@ -16,7 +16,8 @@ date: 2022-12-01T23:43:42+08:00
 
 - Spring Boot提供了@Controller和@RestController两种注解来标识此类负责接收和处理HTTP请求。
 - 如果请求的是页面和数据，使用@Controller注解即可；如果只是请求数据，则可以使用@RestController注解
-![controller 图标](image/web1.png)
+
+<img src = image/web1.png />
 
 ## @Controller的用法
 
@@ -100,6 +101,3 @@ date: 2022-12-01T23:43:42+08:00
 依赖版本可以自己更新
 
 ## 全局配置
-
-
-
