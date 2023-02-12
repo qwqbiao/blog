@@ -1,6 +1,7 @@
 ---
 title: "spring boot"
 date: 2022-12-01T23:43:42+08:00
+slug:01
 ---
 
 ## spring boot教程

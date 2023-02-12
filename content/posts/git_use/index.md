@@ -16,6 +16,7 @@ git分为三个部分，工作区(WorkSpace)，暂存区(Staged)，仓库(Res).
 1,untracked状态:这种状态一般是文件刚刚新建出来,存在工作区,并未在仓库里有对应的文件.即未跟踪的状态。  
 2,staged状态:在git里表示处于暂存区的文件,显示为绿色。虽然图片显示为modified，然而在git中应当为staged状态。  
 ![啊啊啊 图标](git-status.png)  
+![controller 图标](web1.png)
 
 ```bash
 wbbb@DESKTOP-GG1BU2F MINGW64 ~/Desktop/hello (master)
